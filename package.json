@@ -23,7 +23,7 @@
     "react-dom": "16.13.1",
     "react-scripts": "3.4.3",
     "truffle": "5.1.63",
-    "truffle-hdwallet-provider-privkey": "0.3.0",
+    "truffle-hdwallet-provider-privkey": "1.0.3",
     "web3": "1.2.6"
   },
   "scripts": {
